@@ -1,0 +1,1 @@
+Just some programming exercises using typescript with deno
